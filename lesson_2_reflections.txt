@@ -30,3 +30,14 @@ separate.
 
 How do the diagrams help you visualize the branch structure?
 helps you keep track of of new branches and their commits.
+
+
+What is the result of merging two branches together? Why
+do we represent it in the diagram the way we do?
+
+the second branch is merged into the first; meaning that 
+shared commits are not copied over from the second into the
+first. Also, unique commits from both branches are weaved together, 
+being ordered from earliest to latest.
+To show that the commits are no longer connected to their
+parents.
