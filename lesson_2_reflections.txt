@@ -13,3 +13,8 @@ be committed is/are kept, the working directory is the
 location of the repository.
 
 
+How can you use the staging area to make sure you have 
+one commit per logical change?
+
+calling git add on a specific file puts it in the staging area,
+meaning it'll be the file to be changed in the commit.
