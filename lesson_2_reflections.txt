@@ -18,3 +18,11 @@ one commit per logical change?
 
 calling git add on a specific file puts it in the staging area,
 meaning it'll be the file to be changed in the commit.
+
+
+What are some situations when branches would be helpful
+in keeping your history organized? How would branches help?
+
+when experimenting a feature that might not work.
+Branches would help by keeping original project files
+separate.
