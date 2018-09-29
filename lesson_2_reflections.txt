@@ -26,3 +26,7 @@ in keeping your history organized? How would branches help?
 when experimenting a feature that might not work.
 Branches would help by keeping original project files
 separate.
+
+
+How do the diagrams help you visualize the branch structure?
+helps you keep track of of new branches and their commits.
